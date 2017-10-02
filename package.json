@@ -1,0 +1,22 @@
+{
+  "name": "Eshop",
+  "description": "A simple and powerful eshop solution written in Total.js / Node.js.",
+  "version": "8.0.0",
+  "main": "release.js",
+  "dependencies": {
+    "nodemailer": "^4.1.0",
+    "paypal-express-checkout": "latest",
+    "total.js": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eshop",
+    "ecommerce",
+    "вязальные машины",
+    "узоры для вязания"
+  ],
+  "author": "Peter Širka",
+  "license": "MIT"
+}
